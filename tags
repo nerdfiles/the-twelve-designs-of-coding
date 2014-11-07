@@ -1,0 +1,46 @@
+!_TAG_FILE_FORMAT	2	/extended format/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Łukasz Korecki	/lukasz@coffeesounds.com/
+!_TAG_PROGRAM_NAME	CoffeeTags	//
+!_TAG_PROGRAM_URL	https://github.com/lukaszkorecki/CoffeeTags	/GitHub repository/
+!_TAG_PROGRAM_VERSION	0.5.0	//
+BrowserSubscriber	/Users/nerdfiles/Projects/javascript-quizzes/tests.coffee	/^class BrowserSubscriber$/;"	c	line:74	language:coffee
+DeepThought	/Users/nerdfiles/Projects/javascript-quizzes/tests.coffee	/^class DeepThought$/;"	c	line:24	language:coffee
+DeeperThought	/Users/nerdfiles/Projects/javascript-quizzes/tests.coffee	/^class DeeperThought extends mixOf DeepThought, PhilosopherMixin$/;"	c	line:33	language:coffee
+Input	/Users/nerdfiles/Projects/javascript-quizzes/tests.coffee	/^  class Input$/;"	c	line:97	language:coffee
+LazyInput	/Users/nerdfiles/Projects/javascript-quizzes/tests.coffee	/^class LazyInput$/;"	c	line:96	language:coffee
+Mixed	/Users/nerdfiles/Projects/javascript-quizzes/tests.coffee	/^  class Mixed extends base$/;"	c	line:18	language:coffee
+PageDOM	/Users/nerdfiles/Projects/javascript-quizzes/tests.coffee	/^class PageDOM$/;"	c	line:66	language:coffee
+PhilosopherMixin	/Users/nerdfiles/Projects/javascript-quizzes/tests.coffee	/^class PhilosopherMixin$/;"	c	line:28	language:coffee
+PhoneSubscriber	/Users/nerdfiles/Projects/javascript-quizzes/tests.coffee	/^class PhoneSubscriber$/;"	c	line:79	language:coffee
+ToType	/Users/nerdfiles/Projects/javascript-quizzes/tests.coffee	/^  classToType =$/;"	c	line:46	language:coffee
+ToType	/Users/nerdfiles/Projects/javascript-quizzes/tests.coffee	/^  classToType[Object.prototype.toString.call(obj)]$/;"	c	line:55	language:coffee
+answer	/Users/nerdfiles/Projects/javascript-quizzes/tests.coffee	/^  answer: ->$/;"	f	line:25	language:coffee	object:DeepThought
+answer	/Users/nerdfiles/Projects/javascript-quizzes/tests.coffee	/^  answer: ->$/;"	f	line:34	language:coffee	object:DeeperThought
+bar	/Users/nerdfiles/Projects/javascript-quizzes/perfectionkills.com.coffee	/^  bar: () ->$/;"	f	line:30	language:coffee	object:foo
+bar	/Users/nerdfiles/Projects/javascript-quizzes/perfectionkills.com.coffee	/^  bar: () ->$/;"	f	line:39	language:coffee	object:foo
+classToType	/Users/nerdfiles/Projects/javascript-quizzes/tests.coffee	/^  classToType =$/;"	v	line:46	language:coffee
+constructor	/Users/nerdfiles/Projects/javascript-quizzes/tests.coffee	/^    constructor: (@text) ->$/;"	f	line:98	language:coffee	object:LazyInput.Input
+constructor	/Users/nerdfiles/Projects/javascript-quizzes/tests.coffee	/^  constructor: () ->$/;"	f	line:67	language:coffee	object:PageDOM
+constructor	/Users/nerdfiles/Projects/javascript-quizzes/tests.coffee	/^  constructor: (@text) ->$/;"	f	line:100	language:coffee	object:LazyInput
+f	/Users/nerdfiles/Projects/javascript-quizzes/perfectionkills.com.coffee	/^  f = () -> 1$/;"	f	line:77	language:coffee
+f	/Users/nerdfiles/Projects/javascript-quizzes/perfectionkills.com.coffee	/^  f = () ->$/;"	f	line:46	language:coffee	object:foo
+f	/Users/nerdfiles/Projects/javascript-quizzes/perfectionkills.com.coffee	/^(f = () ->$/;"	f	line:76	language:coffee	object:window
+f	/Users/nerdfiles/Projects/javascript-quizzes/perfectionkills.com.coffee	/^f = () -> f$/;"	f	line:83	language:coffee	object:window
+f	/Users/nerdfiles/Projects/javascript-quizzes/perfectionkills.com.coffee	/^f = g = () ->$/;"	f	line:6	language:coffee	object:window
+f	/Users/nerdfiles/Projects/javascript-quizzes/perfectionkills.com.coffee	/^if (f = () ->$/;"	f	line:55	language:coffee	object:window
+foo	/Users/nerdfiles/Projects/javascript-quizzes/perfectionkills.com.coffee	/^  foo:$/;"	v	line:71	language:coffee
+foo	/Users/nerdfiles/Projects/javascript-quizzes/perfectionkills.com.coffee	/^foo =$/;"	v	line:29	language:coffee
+foo	/Users/nerdfiles/Projects/javascript-quizzes/perfectionkills.com.coffee	/^foo =$/;"	v	line:38	language:coffee
+g	/Users/nerdfiles/Projects/javascript-quizzes/perfectionkills.com.coffee	/^  g = () ->$/;"	f	line:48	language:coffee	object:foo
+if	/Users/nerdfiles/Projects/javascript-quizzes/perfectionkills.com.coffee	/^if (f = () ->$/;"	b	line:55	language:coffee
+if	/Users/nerdfiles/Projects/javascript-quizzes/tests.coffee	/^  if obj == undefined or obj == null$/;"	b	line:44	language:coffee
+mixOf	/Users/nerdfiles/Projects/javascript-quizzes/tests.coffee	/^mixOf = (base, mixins...) ->$/;"	f	line:17	language:coffee	object:window
+notify	/Users/nerdfiles/Projects/javascript-quizzes/tests.coffee	/^  notify: (element) ->$/;"	f	line:69	language:coffee	object:PageDOM
+onNewEvent	/Users/nerdfiles/Projects/javascript-quizzes/tests.coffee	/^  onNewEvent: (item) ->$/;"	f	line:75	language:coffee	object:BrowserSubscriber
+onNewEvent	/Users/nerdfiles/Projects/javascript-quizzes/tests.coffee	/^  onNewEvent: (item) ->$/;"	f	line:80	language:coffee	object:PhoneSubscriber
+pontificate	/Users/nerdfiles/Projects/javascript-quizzes/tests.coffee	/^  pontificate: ->$/;"	f	line:29	language:coffee	object:PhilosopherMixin
+restore	/Users/nerdfiles/Projects/javascript-quizzes/tests.coffee	/^  restore: (input) ->$/;"	f	line:105	language:coffee	object:LazyInput
+save	/Users/nerdfiles/Projects/javascript-quizzes/tests.coffee	/^  save: (newText) ->$/;"	f	line:101	language:coffee	object:LazyInput
+subscribe	/Users/nerdfiles/Projects/javascript-quizzes/tests.coffee	/^  subscribe: (to, onNewEvent) ->$/;"	f	line:71	language:coffee	object:PageDOM
+type	/Users/nerdfiles/Projects/javascript-quizzes/tests.coffee	/^type = (obj) ->$/;"	f	line:43	language:coffee	object:window

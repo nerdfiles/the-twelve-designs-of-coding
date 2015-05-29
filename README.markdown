@@ -18,9 +18,12 @@
 
 ## Other ideas
 
-1. Favor object composition
+1. Favor object composition over class inheritance
 2. Namespacing and tokenization, or hashblocking of event-driven channels and chains
-3. Events flow up, state flows down.
+3. Events flow up, state flows down
 4. Modularity should never move beyond 6 degrees (then-ables, hierarchies)
 5. Self-documenting code, implementation details (prefer object composition, versioning over superficial variable names)
 6. Properly hide brittle code from APIs with compositionality
+7. Think about communication between objects!
+
+Classes deal with the idea of an object. Prototypes deal with the objects themselves. Easier polymorphism!

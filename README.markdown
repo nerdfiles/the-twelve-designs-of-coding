@@ -15,3 +15,12 @@
 10. Singleton — classes with a static interface #encapsulation #modularity #classist
 11. Strategy — objects who condition algorithms #encapsulation #defensive #singleresponsibility
 12. Template Method — polymorphic algorithms by differing descriptions #familyresemblance #classist
+
+## Other ideas
+
+1. Favor object composition
+2. Namespacing and tokenization, or hashblocking of event-driven channels and chains
+3. Events flow up, state flows down.
+4. Modularity should never move beyond 6 degrees (then-ables, hierarchies)
+5. Self-documenting code, implementation details (prefer object composition, versioning over superficial variable names)
+6. Properly hide brittle code from APIs with compositionality
